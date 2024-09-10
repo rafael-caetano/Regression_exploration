@@ -1,0 +1,11 @@
+Training Set Metrics:
+Mean Squared Error: 81571001.80
+Root Mean Squared Error: 9031.67
+Mean Absolute Error: 6341.54
+R-squared Score: 0.95
+
+Test Set Metrics:
+Mean Squared Error: 83502864.03
+Root Mean Squared Error: 9137.99
+Mean Absolute Error: 7514.29
+R-squared Score: 0.93

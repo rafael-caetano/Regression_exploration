@@ -1,0 +1,7 @@
+SVR Metrics:
+Mean Squared Error: 20036494264.13
+Root Mean Squared Error: 141550.32
+Mean Absolute Error: 63332.39
+R-squared Score: 0.75
+
+Prediction for position level 6.5: 170370.02

@@ -1,0 +1,7 @@
+Random Forest Regression Metrics:
+Mean Squared Error: 2384100000.00
+Root Mean Squared Error: 48827.25
+Mean Absolute Error: 22700.00
+R-squared Score: 0.97
+
+Prediction for position level 6.5: 167000.00

@@ -1,0 +1,14 @@
+Training Set Metrics:
+Mean Squared Error: 36852948.76
+Root Mean Squared Error: 6070.66
+Mean Absolute Error: 5310.29
+R-squared Score: 0.94
+
+Test Set Metrics:
+Mean Squared Error: 21026037.33
+Root Mean Squared Error: 4585.42
+Mean Absolute Error: 3426.43
+R-squared Score: 0.97
+
+Model Coefficient (Slope): 9345.94
+Model Intercept: 26816.19

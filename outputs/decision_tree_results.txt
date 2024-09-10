@@ -1,0 +1,7 @@
+Decision Tree Regression Metrics:
+Mean Squared Error: 0.00
+Root Mean Squared Error: 0.00
+Mean Absolute Error: 0.00
+R-squared Score: 1.00
+
+Prediction for position level 6.5: 150000.00

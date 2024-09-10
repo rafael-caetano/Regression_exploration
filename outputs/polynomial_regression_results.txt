@@ -1,0 +1,15 @@
+Linear Regression Metrics:
+Mean Squared Error: 26695878787.88
+Root Mean Squared Error: 163388.74
+Mean Absolute Error: 128454.55
+R-squared Score: 0.67
+
+Polynomial Regression Metrics:
+Mean Squared Error: 210343822.84
+Root Mean Squared Error: 14503.23
+Mean Absolute Error: 12681.82
+R-squared Score: 1.00
+
+Predictions for position level 6.5:
+Linear Regression: 330378.79
+Polynomial Regression: 158862.45
